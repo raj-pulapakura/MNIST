@@ -1,6 +1,6 @@
 # MNIST
 
-In this project I used a Convolutional Neural Network (CNN) on the famous MNIST dataset!
+In this project I use a Convolutional Neural Network (CNN) on the famous MNIST dataset!
 
 ## MNIST dataset
 
